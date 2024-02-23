@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T20:38:38.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="eWh5kEO97nEJDv5KJ2jf" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T20:39:49.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="JUX7eTMcNU_qEaxXbwOb" version="23.1.6" type="github">
   <diagram name="Страница — 1" id="djg7_Uyk3S77_dmqnqZD">
     <mxGraphModel dx="3640" dy="3119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="ZqY_GZwHogOzATdWuDRo-4" value="id_отделение" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="314" y="130" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZqY_GZwHogOzATdWuDRo-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="895" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZqY_GZwHogOzATdWuDRo-7" value="fam" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="160" width="100" height="40" as="geometry" />
